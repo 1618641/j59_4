@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-        <h1>登录失败:${msg}</h1>
+        <h1>#登录失败:${msg}</h1>
         <br>
         <A href="index.jsp">返回</A>
 </body>
